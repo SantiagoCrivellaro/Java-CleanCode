@@ -4,13 +4,7 @@ Clean Code y Principios SOLID
 
 ¿Qué es Clean Code?
 
-Clean Code se refiere a la práctica de escribir código legible, comprensible y fácil de mantener. Escrito correctamente, no solo funciona, sino que también es una herramienta efectiva de comunicación entre desarrolladores. Este repositorio incluye:
-
-Buenas prácticas para nombrar variables, funciones y clases.
-
-Ejemplos de refactorización de código.
-
-Antipatrones comunes y cómo evitarlos.
+Clean Code se refiere a la práctica de escribir código legible, comprensible y fácil de mantener. Escrito correctamente, no solo funciona, sino que también es una herramienta efectiva de comunicación entre desarrolladores. 
 
 Principios SOLID
 
@@ -30,6 +24,7 @@ En este repositorio encontrarás:
 
 Explicaciones teóricas de cada principio.
 
-Ejemplos prácticos en Java y otros lenguajes.
+Ejemplos prácticos en Java 
+
 
 Buenas prácticas para implementarlos en tus proyectos.
